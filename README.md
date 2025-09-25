@@ -10,7 +10,6 @@ Aplicativo gráfico (GUI) para otimizações seguras e reversíveis no Windows. 
 
 - Compatível com **Windows 10 e 11 (64-bit)**
 - Recomendado executar como **Administrador (UAC)** para acesso completo
-- Distribuição **portátil**: executável único gerado com **PyInstaller**
 
 ---
 
