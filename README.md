@@ -2,6 +2,8 @@
 
 Aplicativo gráfico (GUI) para otimizações seguras e reversíveis no Windows. Foco em simplicidade para o usuário final e em operações que **não comprometem o sistema**.
 
+![Programa de Otimização](./assets/image.png)
+
 ---
 
 ## ✅ Compatibilidade & Distribuição
