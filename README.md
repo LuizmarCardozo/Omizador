@@ -89,17 +89,6 @@ Remove:
 
 ---
 
-## 🧩 Erros Comuns & Soluções
-
-| Problema | Solução |
-|---------|---------|
-| SmartScreen bloqueou | Clique em **Mais informações > Executar mesmo assim** |
-| Logo não aparece | Verifique se `DTO.png` foi incluído no build |
-| Cache não limpa totalmente | Feche o navegador e tente novamente |
-| Inicialização não lista apps | Execute como administrador |
-| Otimização de RAM com pouco efeito | Alguns processos do sistema são ignorados por segurança |
-
----
 
 ## 🛠️ Para Desenvolvedores
 
